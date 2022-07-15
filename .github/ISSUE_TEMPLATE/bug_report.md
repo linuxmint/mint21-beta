@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug report template
+about: Click on "Get started" to open an issue template for precise, standard, fast and easy writing
 title: "[Cinnamon] [Mate] [Xfce] issue title preceded by one of these distros"
 labels: ''
 assignees: ''
