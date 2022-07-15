@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Hardware and mintUpdate**
-* If relevant, you could provide some `inxi` output to describe your hardware and drivers
+* If relevant, you could provide `inxi -Fxxxrz` output to describe your hardware and drivers
 * Is your system all up-to-date ? Please check your Update Manager (mintUpdate).
 
 **Additional context**
